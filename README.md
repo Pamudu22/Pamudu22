@@ -27,7 +27,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
   <a href="mailto:pamuduwijayabandara@outlook.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/111111/email.png" alt="Email"/>
+    <img src="https://img.icons8.com/ios-filled/30/fffffff/email.png" alt="Email"/>
   </a>
 </p>
 
