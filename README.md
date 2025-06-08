@@ -23,15 +23,6 @@
 
 
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamudu22&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamudu22&layout=compact&theme=tokyonight&langs_count=10&hide=less" alt="Top Languages" />
-</p>
 
 ---
 
