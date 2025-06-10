@@ -18,8 +18,8 @@
 - 📫 How to reach me **pamuduwijayabandara@outlook.com**
 
 </td>
-    <td>
-      <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="400" alt="Terminal Typing" />
+    <td>   
+        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" alt="GitHub Tools">
     </td>
   </tr>
 </table>
