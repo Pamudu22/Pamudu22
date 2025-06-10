@@ -37,9 +37,6 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pamudu22&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" />
 </p>
-<p align="center">
-  <img src="https://github.com/pamudu22/github-metrics/blob/main/github-metrics.svg" alt="Metrics" />
-</p>
 
 ---
 
