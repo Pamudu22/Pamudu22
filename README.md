@@ -19,7 +19,7 @@
 
 </td>
     <td>   
-        <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="400" alt="GitHub Tools">
+        <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400" alt="AI Animation">
     </td>
   </tr>
 </table>
