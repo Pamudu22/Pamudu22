@@ -5,6 +5,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pamudu22&count_private=true&cache_seconds=1800&theme=juicyfresh" alt="pamudu22" /></a> </p>
 
+<table>
+  <tr>
+    <td>
+
 - 🌱 I’m currently learning **MERN Stack**
 
 - 📝 I regularly write articles on [https://codewithpmd.wordpress.com/](https://codewithpmd.wordpress.com/)
@@ -13,9 +17,13 @@
 
 - 📫 How to reach me **pamuduwijayabandara@outlook.com**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
-</p>
+</td>
+    <td>
+      <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="400" alt="Terminal Typing" />
+    </td>
+  </tr>
+</table>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
