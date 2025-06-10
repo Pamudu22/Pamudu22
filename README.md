@@ -9,9 +9,13 @@
 
 - 📝 I regularly write articles on [https://codewithpmd.wordpress.com/](https://codewithpmd.wordpress.com/)
 
-- 💬 Ask me about **React, Node JS, Java, Spring Boot, JS, SQL, HTML, CSS**
+- 💬 Ask me about **React, Node JS, Java, Spring Boot, JavaScript, SQL, HTML, CSS**
 
 - 📫 How to reach me **pamuduwijayabandara@outlook.com**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding Animation">
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
