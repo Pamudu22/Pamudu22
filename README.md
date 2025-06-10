@@ -25,12 +25,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamudu22&theme=juicyfresh&count_private=true&cache_seconds=900" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamudu22&theme=tokyonight&count_private=true&cache_seconds=900" alt="GitHub Streak" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamudu22&layout=compact&theme=juicyfresh&langs_count=12&hide=less&count_private=true&cache_seconds=900" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamudu22&layout=compact&theme=tokyonight&langs_count=12&hide=less&count_private=true&cache_seconds=900" alt="Top Languages" />
 </p>
 
 <p align="center">
