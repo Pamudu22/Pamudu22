@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pamudu22&label=Profile%20views&color=0e75b6&style=flat" alt="pamudu22" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pamudu22&count_private=true&cache_seconds=1800&theme=darkhub" alt="pamudu22" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pamudu22&count_private=true&cache_seconds=1800&theme=juicyfresh" alt="pamudu22" /></a> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -25,12 +25,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamudu22&theme=tokyonight&count_private=true&cache_seconds=900" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pamudu22&theme=juicyfresh&count_private=true&cache_seconds=900" alt="GitHub Streak" />
 </p>
 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamudu22&layout=compact&theme=tokyonight&langs_count=12&hide=less&count_private=true&cache_seconds=900" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pamudu22&layout=compact&theme=juicyfresh&langs_count=12&hide=less&count_private=true&cache_seconds=900" alt="Top Languages" />
 </p>
 
 <p align="center">
